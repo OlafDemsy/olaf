@@ -1,0 +1,97 @@
+body{
+    background-color: rgb(49, 68, 145);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.mail{
+    border: 3px;
+    border-style: solid;
+    border-color: rgb(12, 12, 111);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+    height: 55px;
+}
+.mail a{
+    text-decoration: none;
+    font-size: 33px;
+    font-style: oblique;
+    color: black;
+}
+.pfp{
+    border-radius: 50%;
+    width: 398.03px;
+
+
+}
+.twitter{
+    border: 3px;
+    border-style: solid;
+    border-color: rgb(12, 12, 111);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+    height: 55px;
+}
+.twitter a{
+    text-decoration: none;
+    font-size: 33px;
+    font-style: oblique;
+    color: black;
+}
+.github{
+    border: 3px;
+    border-style: solid;
+    border-color: rgb(12, 12, 111);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+    height: 55px;
+}
+.github a{
+    text-decoration: none;
+    font-size: 33px;
+    font-style: oblique;
+    color: black;
+}
+.discord{
+    border: 3px;
+    border-style: solid;
+    border-color: rgb(12, 12, 111);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+    height: 55px;
+}
+.discord a{
+    text-decoration: none;
+    font-size: 33px;
+    font-style: oblique;
+    color: black;
+}
+.insta{
+    border: 3px;
+    border-style: solid;
+    border-color: rgb(12, 12, 111);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+    height: 55px;
+}
+.insta a{
+    text-decoration: none;
+    font-size: 33px;
+    font-style: oblique;
+    color: black;
+}
+hr{
+    color:  rgb(49, 68, 145)
+    
+}
